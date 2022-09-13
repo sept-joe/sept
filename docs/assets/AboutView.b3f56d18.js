@@ -1,0 +1,1 @@
+import{_ as t}from"./index.ccc27bf2.js";const o={},_={class:"about"},n=Vue.createElementVNode("h1",null,"This is an about page",-1);function c(s,a){const e=Vue.resolveComponent("el-date-picker");return Vue.openBlock(),Vue.createElementBlock("div",_,[n,Vue.createVNode(e)])}const u=t(o,[["render",c]]);export{u as default};
