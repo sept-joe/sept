@@ -1,0 +1,1 @@
+import{_ as e}from"./index.50e8ce10.js";const t={},o={class:"about"},_=Vue.createElementVNode("h1",null,"This is an about page",-1),n=[_];function s(c,a){return Vue.openBlock(),Vue.createElementBlock("div",o,n)}const i=e(t,[["render",s]]);export{i as default};
